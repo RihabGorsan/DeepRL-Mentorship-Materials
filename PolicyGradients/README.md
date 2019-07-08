@@ -10,4 +10,4 @@ At the end of the notebook, we will cover the main problems of REINFORCE such as
 
 And then we'll see how to mitigate these problems using importance sampling, a tricky approximation of policy steps as well as a clipping step resulting at the end in creating a new objectif funtion called **Clipped Surrogate Function** that introduces to us **Proximal Policy Optimization** algorithm.
 
-Implementation of PPO will be convered soon.
+Implementation of PPO is covered in `pong-PPO.ipyng`, check how to train agent to play pong using PPO. 
